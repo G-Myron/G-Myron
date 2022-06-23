@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Myron Giannakis
 - 👀 I’m interested in  Web Dev, Quantum Computing, Machine Learning
-- 🌱 I’m currently learning Software engineering
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
                       https://www.linkedin.com/in/myron-giannakis/
